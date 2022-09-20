@@ -13,11 +13,20 @@
     border: solid 2px rgb(91, 53, 109);
     text-shadow: 3px 3px 3px orange;
 }
+.direction{background-color: beige;font-family: 'Courier New', Courier, monospace; font-size: 10px;color: black;}
+.direction:hover{
+    background-color: aqua;
+    color:blue
+
+}
 .Fitz{
     color: aquamarine;
 }
 .Zara{
     color: rgb(85, 83, 212);
+}
+.King{
+    color:rgb(6, 95, 43);
 }
 table,td,th{
     margin: 1px solid black;
